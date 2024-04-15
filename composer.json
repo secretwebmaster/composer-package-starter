@@ -1,0 +1,19 @@
+{
+    "name": "secretwebmaster/composer-package-starter",
+    "description": "A composer package with only basic files",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Secretwebmaster\\ComposerPackageStarter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "secretwebmaster",
+            "email": "earnbyshare2016@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
