@@ -1,4 +1,3 @@
 # Inital
-Initial relader v1.0.0
-
+This package contain some basic file structure of any composer package
  
